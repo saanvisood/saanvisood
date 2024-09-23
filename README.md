@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @saanvisood
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I'm Saanvi.
 
-<!---
-saanvisood/saanvisood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in software engineering, specifically in quantitative development. Currently, I'm working on building APIs using JavaScript and Node.js and learning C.
+
+Find my LinkedIn here: www.linkedin.com/in/sood-saanvi
