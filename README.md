@@ -2,6 +2,6 @@ Hi! I'm Saanvi.
 
 I'm interested in software engineering, specifically quantitative development.
 
-Currently working on:
-- Building APIs using JavaScript and Node.js
-- Learning how to code in C
+I'm currently working on:
+- Building APIs using JavaScript and NodeJS
+- Learning how to code in C and Rust
